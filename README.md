@@ -7,4 +7,5 @@
 👯 I’m looking to collaborate on MERN stack, NextJs, and Web3 projects.  
 💬 Ask me about full-stack development, MERN stack, NextJs, and my experience transitioning into Web3.  
 📫 How to reach me: https://www.linkedin.com/in/menelik-tefera/ or menelikworku@gmail.com  
-⚡ Fun fact: When I’m not coding, I’m exploring the latest trends in tech and crypto or reading up on blockchain innovation!
+⚡ Fun fact: When I’m not coding, I’m exploring the latest trends in tech and crypto or reading up on blockchain innovation!  
+:tennis: Preferred active hobby - Tennis.
