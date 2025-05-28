@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Menelik - a Fullstack Web Developer
 
 :computer: Over the last six months, I dove deep into NextJs and developed e-commerce app dedicated to making high-quality products from top brands accessible to customers across Africa.  
 🔭 I’m currently working on expanding my knowledge in Web3 and blockchain technology.  
