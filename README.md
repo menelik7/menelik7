@@ -1,11 +1,11 @@
-## Hi there 👋 I'm Menelik - a Fullstack Web Developer
+## Hi there 👋 I'm Menelik - a Fullstack Developer
 
-:computer: Over the last six months, I dove deep into NextJs and developed e-commerce app dedicated to making high-quality products from top brands accessible to customers across Africa.  
-🔭 I’m currently working on expanding my knowledge in Web3 and blockchain technology.  
-🌱 I’m invested in learning Ethereum and Solidity to explore blockchain’s potential and smart contract development.  
-:rocket: I’m getting help from Metana with deepening my blockchain expertise, especially in decentralized app (dApp) development.  
-👯 I’m looking to collaborate on MERN stack, NextJs, and Web3 projects.  
-💬 Ask me about full-stack development, MERN stack, NextJs, and my experience transitioning into Web3.  
-📫 How to reach me: https://www.linkedin.com/in/menelik-tefera/ or menelikworku@gmail.com  
-⚡ Fun fact: When I’m not coding, I’m exploring the latest trends in tech and crypto or reading up on blockchain innovation!  
-:tennis: Preferred active hobby: Tennis.
+:computer: I build performant, full-stack applications with modern web technologies — from responsive frontends to scalable backend services.
+🛠️ My stack: Next.js, React, TypeScript, Hono.js, Prisma, PostgreSQL, Redis, TanStack Query, and Tailwind CSS.
+🤖 I have hands-on experience integrating AI services into production applications, including OpenAI and image generation APIs.
+🚀 Currently deepening my expertise in monorepo architecture, mobile development with React Native & Expo, and distributed system design.
+👯 I'm open to collaborating on full-stack projects, AI-powered applications, and developer tooling.
+💬 Ask me about full-stack development, AI integration, performance optimization, or building products as a solo developer.
+📫 How to reach me: https://www.linkedin.com/in/menelik-tefera/ or menelikworku@gmail.com
+⚡ Fun fact: I once cut an API response time from 90+ seconds to under 30 through parallelization — performance wins are my thing.
+🎾 Preferred active hobby: Tennis.
