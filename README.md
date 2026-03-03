@@ -8,5 +8,5 @@
 👯 I'm open to collaborating on full-stack projects, AI-powered applications, and mobile apps.<br>
 💬 Ask me about full-stack development, AI integration, React Native, performance optimization, or building products as a solo developer.<br>
 📫 How to reach me: https://www.linkedin.com/in/menelik-tefera/ or menelikworku@gmail.com<br>
-⚡ Fun fact: I once cut an API response time from 90+ seconds to under 30 through parallelization — performance wins are my thing.<br>
+⚡ Fun fact: I'm obsessed with performance optimization — parallelization, caching strategies, and shaving seconds off response times.<br>
 🎾 Preferred active hobby: Tennis.
